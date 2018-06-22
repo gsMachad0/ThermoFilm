@@ -1,0 +1,111 @@
+
+Resultados da amostra :12_5prc.jpg
+Diretório: C:\Users\Guilherme\Desktop\12_5prc.jpg
+RGB utilizado: R[237] G[237] B[237]
+Sensibilidade não utilizada.
+Coordenadas da área analisada: X-MIN[15] X-MAX[144] Y-MIN[4] Y-MAX[100]
+Área da placa analisada: 10950 pixels
+Números de pixels encontrados acima do filtro: 1350
+Porcentagem da placa tomada pelo biofilme: 12,33%
+
+============================================================================
+Resultados da amostra :25prc.jpg
+Diretório: C:\Users\Guilherme\Desktop\25prc.jpg
+RGB utilizado: R[237] G[237] B[237]
+Sensibilidade não utilizada.
+Coordenadas da área analisada: X-MIN[15] X-MAX[144] Y-MIN[4] Y-MAX[100]
+Área da placa analisada: 10950 pixels
+Números de pixels encontrados acima do filtro: 2700
+Porcentagem da placa tomada pelo biofilme: 24,66%
+
+============================================================================
+Resultados da amostra :25prc.jpg
+Diretório: C:\Users\Guilherme\Desktop\25prc.jpg
+RGB utilizado: R[237] G[237] B[237]
+Sensibilidade utilizada de: 35 no sentido NEGATIVO
+Coordenadas da área analisada: X-MIN[16] X-MAX[144] Y-MIN[4] Y-MAX[100]
+Área da placa analisada: 10845 pixels
+Números de pixels encontrados acima do filtro: 2700
+Porcentagem da placa tomada pelo biofilme: 24,90%
+
+============================================================================
+Results of the named sample:25prc.jpg
+Directory: C:\Users\Guilherme\Documents\NetBeansProjects\JavaApplication2\src\testDatabase\25prc.jpg
+RGB values: R[232] G[232] B[232]
+Sensivity not used
+Coordinates of the analyzed area: X-MIN[16] X-MAX[143] Y-MIN[2] Y-MAX[103]
+Sample plate area: 10920 pixels
+Number of pixels found higher than the filter in the plate: 2700
+Percentage of plate taken by biofilm: 24,73%
+
+============================================================================
+Results of the sample: 12_5prc.jpg
+Directory: C:\Users\Guilherme\Desktop\12_5prc.jpg
+RGB values: R[236] G[236] B[236]
+Sensivity not used
+Coordinates of the analyzed area: X-MIN[15] X-MAX[145] Y-MIN[4] Y-MAX[100]
+Sample plate area: 10800 pixels
+Number of pixels found higher than the filter in the plate: 1350
+Percentage of plate taken by biofilm: 12,50%
+
+============================================================================
+Results of the sample: sample_0s.jpg
+Directory: C:\Users\Guilherme\Documents\NetBeansProjects\JavaApplication2\src\database\sample_0s.jpg
+RGB values: R[167] G[167] B[167]
+Sensivity not used
+Coordinates of the analyzed area: X-MIN[160] X-MAX[226] Y-MIN[83] Y-MAX[142]
+Sample plate area: 2043 pixels
+Number of pixels found higher than the filter in the plate: 984
+Percentage of plate taken by biofilm: 48,16%
+
+============================================================================
+Results of the sample: sample_180s.jpg
+Directory: C:\Users\Guilherme\Documents\NetBeansProjects\JavaApplication2\src\database\sample_180s.jpg
+RGB values: R[182] G[182] B[182]
+Sensivity not used
+Coordinates of the analyzed area: X-MIN[157] X-MAX[228] Y-MIN[82] Y-MAX[143]
+Sample plate area: 2184 pixels
+Number of pixels found higher than the filter in the plate: 1209
+Percentage of plate taken by biofilm: 55,36%
+
+============================================================================
+Results of the sample: 50prc.jpg
+Directory: C:\Users\Guilherme\Documents\NetBeansProjects\JavaApplication2\src\testDatabase\50prc.jpg
+RGB values: R[229] G[229] B[229]
+Sensivity not used
+Coordinates of the analyzed area: X-MIN[13] X-MAX[136] Y-MIN[6] Y-MAX[98]
+Sample plate area: 7242 pixels
+Number of pixels found higher than the filter in the plate: 3621
+Percentage of plate taken by biofilm: 50,00%
+
+============================================================================
+Results of the sample: 75prc.jpg
+Directory: C:\Users\Guilherme\Documents\NetBeansProjects\JavaApplication2\src\testDatabase\75prc.jpg
+RGB values: R[225] G[225] B[225]
+Sensivity not used
+Coordinates of the analyzed area: X-MIN[14] X-MAX[151] Y-MIN[3] Y-MAX[104]
+Sample plate area: 10800 pixels
+Number of pixels found higher than the filter in the plate: 8100
+Percentage of plate taken by biofilm: 75,00%
+
+============================================================================
+Results of the sample: 25prc.jpg
+Directory: C:\Users\Guilherme\Documents\NetBeansProjects\JavaApplication2\src\testDatabase\25prc.jpg
+RGB values: R[225] G[225] B[225]
+Sensivity not used
+Coordinates of the analyzed area: X-MIN[10] X-MAX[144] Y-MIN[4] Y-MAX[102]
+Sample plate area: 10800 pixels
+Number of pixels found higher than the filter in the plate: 2700
+Percentage of plate taken by biofilm: 25,00%
+
+============================================================================
+Results of the sample: 25prc.jpg
+Directory: C:\Users\Guilherme\Documents\NetBeansProjects\JavaApplication2\src\testDatabase\25prc.jpg
+RGB values: R[225] G[225] B[225]
+Sensivity not used
+Coordinates of the analyzed area: X-MIN[10] X-MAX[144] Y-MIN[4] Y-MAX[102]
+Sample plate area: 10700 pixels
+Number of pixels found higher than the filter in the plate: 2700
+Percentage of plate taken by biofilm: 25,23%
+
+============================================================================
