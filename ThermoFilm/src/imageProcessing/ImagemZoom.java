@@ -278,8 +278,14 @@ public class ImagemZoom extends javax.swing.JFrame {
                     double distp2p3 = Math.sqrt(Math.pow(p3.getY() - p2.getY(), 2) + Math.pow(p3.getX() - p2.getX(), 2));
                     double distp3p4 = Math.sqrt(Math.pow(p4.getY() - p3.getY(), 2) + Math.pow(p4.getX() - p3.getX(), 2));
                     double distp4p1 = Math.sqrt(Math.pow(p4.getY() - p1.getY(), 2) + Math.pow(p4.getX() - p1.getX(), 2));
-
-                    int areaAmostra = (int) (((double) (distp1p2 * distp4p1) / 2.00) + ((double) (distp2p3 * distp3p4) / 2.00));
+                    
+                    double perTriang1 = (distp4p1 + distp1p2 + distmed) / 2;
+                    double areaTriang1 = Math.sqrt(perTriang1*(perTriang1 - distp4p1)*(perTriang1 - distp1p2)*(perTriang1 - distmed));
+                    double perTriang2 = (distp2p3 + distp3p4 + distmed) / 2;
+                    double areaTriang2 = Math.sqrt(perTriang2*(perTriang2 - distp2p3)*(perTriang2 - distp3p4)*(perTriang2 - distmed));
+                    int areaAmostra = (int) (areaTriang1 + areaTriang2);
+                    
+                    //int areaAmostra = (int) (((double) (distp1p2 * distp4p1) / 2.00) + ((double) (distp2p3 * distp3p4) / 2.00));
 
                     mainFrame.setNPixelsSampleField(areaAmostra);
                     //} 
